@@ -1,0 +1,208 @@
+body{
+    background-color:rgba(248,241,231, 1);
+}
+svg
+{
+    display: block;
+    height: 23px;
+    width: 200px;
+    margin-left: 400px;   
+}
+#bars
+{
+    margin-left: 200px;
+}
+/*.burger
+{
+    font-family: flame-bold;
+}*/
+#user
+{
+    margin-left: 350px; 
+}
+#bag
+{
+    margin-right: 4px;
+}
+.sa
+{
+    background-color: #D62300;
+    padding: 10px;
+    width: 100px;
+    margin-left: 10px;
+    border-radius: 20px;
+    border: none;
+    color: white;
+}
+#fo
+{
+    background-color:#502314de;
+    color:whitesmoke;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    font-size: 12px;
+
+}
+.fo
+{
+    width:100%;
+}
+#ra
+{
+    width: 100%;
+    color:#502314de;
+}
+a{
+    color:#502314ab;
+    text-decoration: none;
+}
+.yu
+{
+    height: 200px;
+    width: 100%;
+    background-color: #eee8de;
+    padding-bottom: 50px;
+}
+.ke
+{
+    height: 400px;
+    margin-left: 200px;
+}
+.gu
+{
+    display: block;
+    font:50px flame-bold;
+    margin-right: 500px;
+    margin-left: 200px;
+    margin-top: 100px;
+    color:#502314de;
+}
+.di
+{
+    padding-left: 200px;
+    color:#502314de;
+}
+#pa
+{
+    height: 50px;
+    width:200px;
+}
+.pa
+{
+    margin-left: 25px;
+}
+#burger
+{
+    font-size: 50px;
+    text-transform: uppercase;
+    border-right: 100%;
+    color:#502314de;
+}
+#bu
+{
+    height: 300px;
+    width: 600px;
+}
+.card1
+
+{
+  background-color: aliceblue;
+  height: 500px;
+  width:500px;
+}
+img
+{
+    width:100%;
+}
+button
+{
+    text-align: right;
+    margin-left: 400px;
+}
+.card2
+
+{
+  background-color: aliceblue;
+  height: 500px;
+  width:500px;
+}
+img
+{
+    width:100%;
+}
+button
+{
+    text-align: right;
+    margin-left: 400px;
+}
+.card3
+
+{
+  background-color: aliceblue;
+  height: 500px;
+  width:500px;
+}
+img
+{
+    width:100%;
+}
+button
+{
+    text-align: right;
+    margin-left: 400px;
+}
+.card4
+
+{
+  background-color: aliceblue;
+  height: 500px;
+  width:500px;
+}
+img
+{
+    width:100%;
+}
+button
+{
+    text-align: right;
+    margin-left: 400px;
+}
+#ta
+{
+    margin-left: 200px;
+    margin-bottom: 200px;
+}
+.ak
+{
+    padding-left: 200px;
+}
+.tho
+{
+    background-color: rgba(255, 0, 0, 0.762);
+    color: white;
+    padding: 15px;
+    margin: 5px;
+    border: none;
+    border-radius: 20px;
+    width: 200px;
+    text-align: center;
+    text-transform: capitalize;
+}
+.ta
+{
+    padding: 15px;
+    margin: 5px;
+    border-radius: 20px;
+    width: 200px;
+    text-align: center;
+    background-color:rgba(248,241,231, 1);
+    text-transform: capitalize;
+}
+#ya
+{
+    padding-right: 8px;
+}
+#an
+{
+    padding-right: 8px; 
+}
